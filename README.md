@@ -6,7 +6,7 @@ My name is Justin Pauley and I'm a Senior Support Analyst based in Canada.
 - 🔭 Currently learning: Python and PySpark
 - ⚡ Fun fact: I have a Corgi named [Maple](https://www.instagram.com/maplethecanadiancorgi/)
 
-### Hobbies & Interests
+### Hobbies & Interests 💻
 - 🪵 I'm a woodworker and love building custom furniture and river tables.
 - 👾 I'm a gamer and hope to someday publish a game on the App Store.
 - 🎨 I'm a huge adult fan of Lego and am working on custom Lego artwork.
