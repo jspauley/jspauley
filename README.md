@@ -17,7 +17,7 @@ My name is Justin Pauley and I'm a Senior Support Analyst based in Canada.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jspauley&count_private=true&hide=stars,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jspauley&count_private)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jspauley&layout=compact)
 
 <!--
 **jspauley/jspauley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
