@@ -16,8 +16,8 @@ My name is Justin Pauley and I'm a Senior Support Analyst based in Canada.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=033293)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jspauley&count_private=true&hide=stars,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jspauley&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jspauley&count_private=true&title_color=033293&hide=stars,contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jspauley&layout=compact&title_color=033293)
 
 <!--
 **jspauley/jspauley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
