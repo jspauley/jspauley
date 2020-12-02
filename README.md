@@ -1,10 +1,15 @@
-### Hey there 👋
+### Hey There 👋
 
 My name is Justin Pauley and I'm a Senior Support Analyst based in Canada.
 
 - 📫 How to reach me: [www.justinpauley.com](https://www.justinpauley.com/pages/contact)
 - 🔭 Currently learning: Python and PySpark
 - ⚡ Fun fact: I have a Corgi named [Maple](https://www.instagram.com/maplethecanadiancorgi/)
+
+### Hobbies & Interests
+- 🪵 I'm a woodworker and love building custom furniture and river tables.
+- 👾 I'm a gamer and hope to someday publish a game on the App Store.
+- 🎨 I'm a huge adult fan of Lego and am working on custom Lego artwork.
 
 ### Tools & Technologies 🔧
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=033293)
@@ -15,9 +20,14 @@ My name is Justin Pauley and I'm a Senior Support Analyst based in Canada.
 ![](https://img.shields.io/badge/Tools-Shopify-informational?style=flat&logo=Shopify&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=033293)
 
-
+<!-- 
+GitHub Stats From https://github.com/anuraghazra/github-readme-stats
+Tutorial From https://github.com/MartinHeinz
+-->
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jspauley&count_private=true&title_color=033293&hide=stars,contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jspauley&layout=compact&title_color=033293)
+-->
 
 <!--
 **jspauley/jspauley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
