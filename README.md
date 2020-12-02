@@ -2,8 +2,8 @@
 
 My name is Justin Pauley and I'm a Senior Support Analyst based in Canada.
 
-- 🔭 Currently learning: Python and PySpark
 - 📫 How to reach me: [www.justinpauley.com](https://www.justinpauley.com/pages/contact)
+- 🔭 Currently learning: Python and PySpark
 - ⚡ Fun fact: I have a Corgi named [Maple](https://www.instagram.com/maplethecanadiancorgi/)
 
 ### Tools & Technologies 🔧
