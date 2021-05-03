@@ -1,6 +1,6 @@
 ### Hey There 👋
 
-My name is Justin Pauley and I'm an Intern Data Scientist based in Canada.
+My name is Justin Pauley and I'm a Data Scientist based in Canada.
 
 - 📫 How to reach me: [www.justinpauley.com](https://www.justinpauley.com/pages/contact)
 - 🔭 Currently learning: Python and PySpark
