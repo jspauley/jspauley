@@ -16,6 +16,7 @@ My name is Justin Pauley and I'm a Data Scientist based in Canada.
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=033293)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=GoogleCloud&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=033293)
 
