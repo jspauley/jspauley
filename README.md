@@ -1,4 +1,4 @@
-### Hey There 👋
+### Hello There 👋
 
 My name is Justin Pauley and I'm a Data Scientist based in Canada.
 
