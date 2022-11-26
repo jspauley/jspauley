@@ -3,7 +3,7 @@
 My name is Justin Pauley and I'm a Data Scientist based in Canada.
 
 - 📫 How to reach me: [www.justinpauley.com](https://www.justinpauley.com/pages/contact)
-- 🔭 Currently learning: Slack Bolt & Twilio APIs
+- 🔭 Currently learning: JavaScript & Rust
 - ⚡ Fun fact: I have a Corgi named [Maple](https://www.instagram.com/maplethecanadiancorgi/)
 
 ### Hobbies & Interests 💻
