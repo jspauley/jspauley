@@ -1,4 +1,4 @@
-### Hello There 👋 Happy Holidays! 🎄
+### Hello There 👋
 
 My name is Justin Pauley and I'm a Data Developer based in Canada.
 
