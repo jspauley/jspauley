@@ -1,25 +1,23 @@
 ### Hello There 👋
 
-My name is Justin Pauley and I'm a Data Developer based in Canada.
+My name is Justin Pauley and I'm a Data Developer based in Canada. I primarily work on Analytics Engineering for Shopify.
 
 - 📫 How to reach me: [www.justinpauley.com](https://www.justinpauley.com/pages/contact)
-- 🔭 Currently learning: JavaScript & Rust
-- ⚡ Fun fact: I have a Corgi named [Maple](https://www.instagram.com/maplethecanadiancorgi/)
+- 🔭 Currently learning: JavaScript
 
-### Hobbies & Interests 💻
-- 🪵 I'm a woodworker and love building custom furniture and river tables.
-- 👾 I'm a gamer and hope to someday publish a game on the App Store.
-- 🎨 I'm a huge adult fan of Lego and build custom Lego creations.
 
 ### Tools & Technologies 🔧
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=033293)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=033293)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=033293)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=033293)
+![](https://img.shields.io/badge/Tool-dbt-informational?style=flat&logo=dbt&logoColor=white&color=033293)
+![](https://img.shields.io/badge/SQL-Trino-informational?style=flat&logo=Trino&logoColor=white&color=033293)
+![](https://img.shields.io/badge/SQL-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=033293)
-![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=GoogleCloud&logoColor=white&color=033293)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=033293)
 
+<!-- 
+Icons from https://simpleicons.org/
+-->
 <!-- 
 GitHub Stats From https://github.com/anuraghazra/github-readme-stats
 Tutorial From https://github.com/MartinHeinz
