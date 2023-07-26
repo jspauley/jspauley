@@ -1,6 +1,6 @@
 ### Hello There 👋
 
-My name is Justin Pauley and I'm a Data Developer based in Canada. I primarily work on Analytics Engineering for Shopify.
+My name is Justin Pauley and I'm a Senior Data Developer based in Canada. I primarily work on Analytics Engineering for Shopify.
 
 - 📫 How to reach me: [www.justinpauley.com](https://www.justinpauley.com/pages/contact)
 - 🔭 Currently learning: JavaScript
@@ -11,9 +11,10 @@ My name is Justin Pauley and I'm a Data Developer based in Canada. I primarily w
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Tool-dbt-informational?style=flat&logo=dbt&logoColor=white&color=033293)
-![](https://img.shields.io/badge/SQL-Trino-informational?style=flat&logo=Trino&logoColor=white&color=033293)
-![](https://img.shields.io/badge/SQL-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=033293)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=033293)
+![](https://img.shields.io/badge/SQL-BigQuery-informational?style=flat&logo=googlecloud&logoColor=white&color=033293)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=033293)
+![](https://img.shields.io/badge/SQL-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=033293)
 
 <!-- 
 Icons from https://simpleicons.org/
