@@ -3,7 +3,7 @@
 My name is Justin Pauley and I'm a Senior Data Developer based in Canada. I primarily work on Analytics Engineering for Shopify.
 
 - 📫 How to reach me: [www.justinpauley.com](https://www.justinpauley.com/pages/contact)
-- 🔭 Currently learning: JavaScript
+- 🔭 Currently learning: Rust
 
 
 ### Tools & Technologies 🔧
